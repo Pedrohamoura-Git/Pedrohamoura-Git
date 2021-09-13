@@ -5,7 +5,7 @@
 <h5 align="center">
 ...
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohamoura-git&label=Profile%20views&color=a13ad3&style=flat" alt="profile visites" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohamoura-git&label=Profile%20views&color=FD418D&style=flat" alt="profile visites" /> </p>
 <p>
 <a align= "center" href="https://github.com/pedrohamoura-git">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohamoura-git&theme=radical">
@@ -13,7 +13,7 @@
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=pedrohamoura-git&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/PedroHAMoura" target="blank"><img src="https://img.shields.io/twitter/follow/PedroHAMoura?logo=twitter&style=for-the-badge" alt="PedroHAMoura" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PedroHAMoura" target="blank"><img src="https://img.shields.io/twitter/follow/PedroHAMoura?logo=twitter&color=FD418D&style=for-the-badge" alt="PedroHAMoura" /></a> </p>
 
 - 📫 How to reach me **pedro.h.a.moura.business@gmail.com**
 <br><br>
