@@ -15,7 +15,8 @@
   }
   ```
 
-  <img align="right" width="300" src="/assets/pixel-game.gif" />
+  ![Amusing Gif](/assets/pixel-game.gif)
+
 </header>
 
 </br>
@@ -31,14 +32,6 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         alt="aws"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.chartjs.org/media/logo-title.svg"
-        alt="chartjs"
         width="40"
         height="40"
       />
@@ -79,14 +72,6 @@
       <img
         src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
         alt="graphql"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-        alt="heroku"
         width="40"
         height="40"
       />
@@ -244,7 +229,7 @@
 </br>
 
 <div>
-  <h2>:link: | Social Medias</h2>
+  <h2>:link: | Social Media</h2>
 
   🏡 <a href="https://pedro-moura-portfolio.vercel.app/en-US" >[website]</a>   **|** 
   🐦 <a href="https://twitter.com/PedroHAMoura" >[twitter]</a>   **|**
