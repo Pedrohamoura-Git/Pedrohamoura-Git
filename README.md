@@ -6,12 +6,11 @@ Nice meeting you, I'm [Pedro Henrique](https://pedro-meuportfolio.netlify.app)
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Pedro Henrique** {
- val name = "Pedro Henrique Alves Moura"
- val acknowledgements = "Software Development"
+object **Pedro Moura** {
+ val name = "Pedro H. A. Moura"
  
+ val acknowledgements = "Software Development"
  val primarySkillset = "Web Development"
- val languages = listOf("Node.js", "GraphQL", "Vue.js", "SCSS") 
 
 }
 ```
@@ -59,6 +58,8 @@ object **Pedro Henrique** {
 
   ![My GitHub Game](game.gif)
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pedrohamoura-Git)](https://github.com/Pedrohamoura-Git/github-profile-trophy)
 
 ## Social Media
 
