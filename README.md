@@ -52,10 +52,12 @@ object **Pedro Henrique** {
 </a>
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://github.com/pedrohamoura-Git/pedrohamoura-Git/raw/output/github-contribution-grid-snake.svg"
     alt="snake"
-  />
+  /> -->
+
+  ![My GitHub Game](game.gif)
 </p>
 
 ## Social Media
