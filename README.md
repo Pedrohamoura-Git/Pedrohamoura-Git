@@ -23,6 +23,7 @@ object **Pedro Moura** {
 
 
 ## **GitHub Statistics**
+
 <p align="left"> 
   <img 
     src="https://komarev.com/ghpvc/?username=pedrohamoura-git&label=Profile%20views&color=FD418D&style=flat" 
@@ -30,33 +31,26 @@ object **Pedro Moura** {
   /> 
 </p>
 
-<a align="center" href="https://github.com/pedrohamoura-git">
+ <!-- [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Pedrohamoura-git&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15)](https://github.com/Pedrohamoura-git/github-profile-trophy)
+--> 
+<p align="center">
   <img
-    alt= "stats card"
-    height="200px" 
-    width="400" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohamoura-git&theme=radical"
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=Pedrohamoura-git&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15"
+    alt="Pedro Moura's trophies"
   />
-</a>
 
-<a align="center" href="https://github.com/pedrohamoura-git">
-  <img
-    height="200px"
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=pedrohamoura-git&count_private=true&theme=radical&show_icons=true" 
-  />
-</a>
+  ![My GitHub Game](game.gif)
+</p>
 
 <p align="center">
   <!-- <img
-    src="https://github.com/pedrohamoura-Git/pedrohamoura-Git/raw/output/github-contribution-grid-snake.svg"
+    src="https://github.com/pedrohamoura-git/pedrohamoura-git/raw/output/github-contribution-grid-snake.svg"
     alt="snake"
   /> -->
 
   ![My GitHub Game](game.gif)
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pedrohamoura-Git)](https://github.com/Pedrohamoura-Git/github-profile-trophy)
 
 ## Social Media
 
