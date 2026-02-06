@@ -19,10 +19,26 @@
       😎 | Check out my GitHub to explore some of the cool things I've been working on!
     </li>
     <li>
-      🤝 | Got questions or want to collaborate? <a href="https://github.com/Pedrohamoura-Git/Pedrohamoura-Git/edit/main/README.md#lets-get-in-touch">Let's connect</a> and make coding magic happen! ✨
+      🤝 | Got questions or want to collaborate? Let's connect and make coding magic happen! ✨
     </li>
   </ul>
 </header>
+
+</br>
+  
+<div id="get-in-touch">
+  <h2>:link: | Let's Get In Touch</h2>
+
+  </br>
+
+  <p align="center">
+    🏡 | <a href="https://pedro-moura-portfolio.vercel.app/en-US" target="_blank">[portfolio]</a>
+    📫 | <a href="pedro.h.a.moura.business@gmail.com" target="_blank">[e-mail]</a>
+    👔 | <a href="https://www.linkedin.com/in/pedro-h-a-moura/" target="_blank">[linkedin]</a>
+    📷 | <a href="https://instagram.com/pedro.h.a.moura" target="_blank">[instagram]</a>
+    🐦 | <a href="https://twitter.com/PedroHAMoura" target="_blank">[twitter]</a>
+  </p>
+</div>
 
 </br>
 </br>
@@ -133,20 +149,3 @@
     />
   </p>
 </div>
-
-</br>
-
-  ## Let's Get In Touch
-  
-<footer id="get-in-touch">
-
-  </br>
-
-  <p align="center">
-    🏡 | <a href="https://pedro-moura-portfolio.vercel.app/en-US" target="_blank">[portfolio]</a>
-    📫 | <a href="pedro.h.a.moura.business@gmail.com" target="_blank">[e-mail]</a>
-    👔 | <a href="https://www.linkedin.com/in/pedro-h-a-moura/" target="_blank">[linkedin]</a>
-    📷 | <a href="https://instagram.com/pedro.h.a.moura" target="_blank">[instagram]</a>
-    🐦 | <a href="https://twitter.com/PedroHAMoura" target="_blank">[twitter]</a>
-  </p>
-</footer>
