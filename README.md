@@ -13,7 +13,7 @@
       🚀 | I'm all about continuous learning.
     </li>
     <li>
-      💻 | Current personal project: my first 2D game - Slash Out.
+      💻 | Current personal project: <a href="https://github.com/Vulpy-Labs/slash-out" target="_blank">my first 2D game - Slash Out.</a>
     </li>
     <li>
       😎 | Check out my GitHub to explore some of the cool things I've been working on!
