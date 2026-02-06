@@ -19,7 +19,7 @@
       😎 | Check out my GitHub to explore some of the cool things I've been working on!
     </li>
     <li>
-      🤝 | Got questions or want to collaborate? <a href="#contacts">Let's connect</a> and make coding magic happen! ✨
+      🤝 | Got questions or want to collaborate? <a href="#get-in-touch">Let's connect</a> and make coding magic happen! ✨
     </li>
   </ul>
 </header>
@@ -136,7 +136,7 @@
 
 </br>
 
-<footer id="contacts">
+<footer id="get-in-touch">
   <h2>:link: | Let's Get In Touch</h2>
 
   </br>
