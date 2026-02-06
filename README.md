@@ -22,25 +22,22 @@
       🤝 | Got questions or want to collaborate? Let's connect and make coding magic happen! ✨
     </li>
   </ul>
-</header>
-
-</br>
-  
-<div id="get-in-touch">
-  <h2>:link: | Let's Get In Touch</h2>
 
   </br>
 
-  <p align="center">
-    🏡 | <a href="https://pedro-moura-portfolio.vercel.app/en-US" target="_blank">[portfolio]</a>
-    📫 | <a href="pedro.h.a.moura.business@gmail.com" target="_blank">[e-mail]</a>
-    👔 | <a href="https://www.linkedin.com/in/pedro-h-a-moura/" target="_blank">[linkedin]</a>
-    📷 | <a href="https://instagram.com/pedro.h.a.moura" target="_blank">[instagram]</a>
-    🐦 | <a href="https://twitter.com/PedroHAMoura" target="_blank">[twitter]</a>
-  </p>
-</div>
+  <div align="center">
+    <a href="pedro.h.a.moura.business@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail&perline=13" alt="gmail icon" />
+    </a>
+    <a href="https://www.linkedin.com/in/pedro-h-a-moura">
+      <img src="https://skillicons.dev/icons?i=linkedin&perline=13" alt="linkedin icon" />
+    </a>
+    <a href="https://www.instagram.com/pedro.h.a.moura/">
+      <img src="https://skillicons.dev/icons?i=instagram&perline=13" alt="instagram icon" />
+    </a>
+  </div>
+</header>
 
-</br>
 </br>
 
 <div id="language-and-tools">
