@@ -3,14 +3,25 @@
 
   </br>
 
-  <span align="center">Nice meeting you, I'm Pedro Moura</span>
+  <span align="center">Hi there 🤙! I'm Pedro Moura</span>
 
-  <p align="center">
-    <img
-      src="game.gif"
-      alt="Space Ship Gif"
-    />
-  </p>
+  <ul>
+    <li>
+      ❤️ | I love travelling, hiking and meeting new people.
+    </li>
+    <li>
+      🚀 | I'm all about continuous learning.
+    </li>
+    <li>
+      💻 | Current personal project: my first 2D game - Slash Out.
+    </li>
+    <li>
+      😎 | Check out my GitHub to explore some of the cool things I've been working on!
+    </li>
+    <li>
+      🤝 | Got questions or want to collaborate? Let's connect and make coding magic happen! ✨
+    </li>
+  </ul>
 </header>
 
 </br>
@@ -110,6 +121,15 @@
     <img
       src="https://github-profile-trophy-fork-two.vercel.app/?username=Pedrohamoura-git&theme=radical&margin-w=15&margin-h=15&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"
       alt="Pedro Moura's trophies"
+    />
+  </p>
+  
+  </br>
+
+  <p align="center">
+    <img
+      src="game.gif"
+      alt="Space Ship Gif"
     />
   </p>
 </div>
