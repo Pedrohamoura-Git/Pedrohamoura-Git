@@ -19,7 +19,7 @@
       😎 | Check out my GitHub to explore some of the cool things I've been working on!
     </li>
     <li>
-      🤝 | Got questions or want to collaborate? <a href="#get-in-touch">Let's connect</a> and make coding magic happen! ✨
+      🤝 | Got questions or want to collaborate? <a href="https://github.com/Pedrohamoura-Git/Pedrohamoura-Git/edit/main/README.md#lets-get-in-touch">Let's connect</a> and make coding magic happen! ✨
     </li>
   </ul>
 </header>
