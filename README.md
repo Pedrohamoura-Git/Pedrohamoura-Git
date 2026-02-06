@@ -3,17 +3,11 @@
 
   </br>
 
-  <span>Nice meeting you, I'm Pedro Moura</span>
-  
-  ```kotlin
-  object **Pedro Moura** {
-  val name = "Pedro H. A. Moura"
-  
-  val acknowledgements = "Software Development"
-  val primarySkillset = "Web Development"
+  <span align="center">Nice meeting you, I'm Pedro Moura</span>
 
-  }
-  ```
+  <p align="center">
+    
+  </p>
 
   ![Amusing Gif](/assets/pixel-game.gif)
 
@@ -27,7 +21,7 @@
 
   </br>
 
-  <p>
+  <p align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -194,7 +188,7 @@
 
   </br>
 
-  <p align="left"> 
+  <p align="center"> 
     <img 
       src="https://komarev.com/ghpvc/?username=pedrohamoura-git&label=Profile%20views&color=FD418D&style=flat" 
       alt="profile visites" 
@@ -203,15 +197,8 @@
   
   <p align="center">
     <img
-      src="https://github-profile-trophy-fork-two.vercel.app/?username=Pedrohamoura-git&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15"
+      src="https://github-profile-trophy-fork-two.vercel.app/?username=Pedrohamoura-git&theme=radical&margin-w=15&margin-h=15&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"
       alt="Pedro Moura's trophies"
-    />
-  </p>
-
-  <p align="center">
-    <img
-      src="https://github.com/pedrohamoura-git/pedrohamoura-git/raw/output/github-contribution-grid-snake.svg"
-      alt="snake"
     />
   </p>
 
@@ -221,9 +208,6 @@
       alt="Space Ship Gif"
     />
   </p>
-
-![My GitHub Game](game.gif)
-
 </div>
 
 </br>
@@ -231,9 +215,14 @@
 <div>
   <h2>:link: | Social Media</h2>
 
-  🏡 <a href="https://pedro-moura-portfolio.vercel.app/en-US" >[website]</a>   **|** 
-  🐦 <a href="https://twitter.com/PedroHAMoura" >[twitter]</a>   **|**
-  📷 <a href="https://instagram.com/pedro.h.a.moura" >[instagram]</a>   **|** 
-  👔 <a href="https://www.linkedin.com/in/pedro-h-a-moura/" >[linkedin]</a>
+  </br>
+
+  <p align="center">
+    🏡 | <a href="https://pedro-moura-portfolio.vercel.app/en-US" target="_blank">[portfolio]</a>
+    📫 | <a href="pedro.h.a.moura.business@gmail.com" target="_blank">[e-mail]</a>
+    👔 | <a href="https://www.linkedin.com/in/pedro-h-a-moura/" target="_blank">[linkedin]</a>
+    📷 | <a href="https://instagram.com/pedro.h.a.moura" target="_blank">[instagram]</a>
+    🐦 | <a href="https://twitter.com/PedroHAMoura" target="_blank">[twitter]</a>
+  </p>
 
 </div>
