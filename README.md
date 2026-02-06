@@ -26,7 +26,7 @@
   </br>
 
   <div align="center">
-    <a href="pedro.h.a.moura.business@gmail.com">
+    <a href="mailto:pedro.h.a.moura.business@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail&perline=13" alt="gmail icon" />
     </a>
     <a href="https://www.linkedin.com/in/pedro-h-a-moura">
