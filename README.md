@@ -19,7 +19,7 @@
       😎 | Check out my GitHub to explore some of the cool things I've been working on!
     </li>
     <li>
-      🤝 | Got questions or want to collaborate? Let's connect and make coding magic happen! ✨
+      🤝 | Got questions or want to collaborate? <a href="#contacts">Let's connect</a> and make coding magic happen! ✨
     </li>
   </ul>
 </header>
@@ -136,8 +136,8 @@
 
 </br>
 
-<div>
-  <h2>:link: | Social Media</h2>
+<footer id="contacts">
+  <h2>:link: | Let's Get In Touch</h2>
 
   </br>
 
@@ -148,4 +148,4 @@
     📷 | <a href="https://instagram.com/pedro.h.a.moura" target="_blank">[instagram]</a>
     🐦 | <a href="https://twitter.com/PedroHAMoura" target="_blank">[twitter]</a>
   </p>
-</div>
+</footer>
