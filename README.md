@@ -136,8 +136,9 @@
 
 </br>
 
+  ## Let's Get In Touch
+  
 <footer id="get-in-touch">
-  <h2>:link: | Let's Get In Touch</h2>
 
   </br>
 
