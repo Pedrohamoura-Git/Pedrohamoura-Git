@@ -132,7 +132,7 @@
   
   <p align="center">
     <img
-      src="https://github-profile-trophy-fork-two.vercel.app/?username=Pedrohamoura-git&theme=radical&margin-w=15&margin-h=15&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"
+      src="https://github-profile-trophy-kannan.vercel.app/?username=Pedrohamoura-git&theme=radical&margin-w=15&margin-h=15&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"
       alt="Pedro Moura's trophies"
     />
   </p>
