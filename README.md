@@ -132,7 +132,7 @@
   
   <p align="center">
     <img
-      src="trophygithubreadmelang.cybee.dpdns.org/?username=Pedrohamoura-git&theme=radical&margin-w=15&margin-h=15&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"
+      src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Pedrohamoura-git&theme=radical&margin-w=15&margin-h=15&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"
       alt="Pedro Moura's trophies"
     />
   </p>
